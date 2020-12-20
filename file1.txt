@@ -2,3 +2,6 @@ this is git class
 learning linux command at the same time 
 i have added a new line for checcking.
 
+this line is for practice purpose.
+
+
