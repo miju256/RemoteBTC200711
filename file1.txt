@@ -3,5 +3,6 @@ learning linux command at the same time
 i have added a new line for checcking.
 
 this line is for practice purpose.
+this is for the todays class practice 
 
 
